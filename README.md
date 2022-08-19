@@ -16,7 +16,3 @@ layer 2 uses a fully connected module with one unit
 
 the 'mean_squared_error' loss is used.
 
-# To run this code
-
-Run 
-
